@@ -8,22 +8,22 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Johnny Hopkins
-description: "Hi I'm Johnny, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+title: Andrew Smithies AIA C.Act
+description: "Hi I'm Andrew, an Actuary turned Data Scientist.  My portfolio focuses on interesting data science projects I've recently undertaken, with a strong emphasis on business impact. Please also visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
-location: "London, UK"
-resume_url: /docs/resume.docx
-avatar_image: /img/profile_picture.JPG
+location: "Tonbridge, Kent (UK)"
+resume_url: /docs/Andrew Smithies CV 2025.docx
+avatar_image: /img/IMG_7769.JPG
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/#" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+linkedln: "https://www.linkedin.com/in/andrew-g-smithies/" # Add your linkedln handle
+github: "https://github.com/asmithies-dsi"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
