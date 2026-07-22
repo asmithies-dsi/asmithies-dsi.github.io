@@ -8,14 +8,14 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Andrew Smithies
+title: Andrew Smithies AIA C.Act MMathStat
 description: "Hi I'm Andrew, an Actuary turned Data Scientist.  My portfolio focuses on interesting data science projects I've recently undertaken, with a strong emphasis on business impact. Please also visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: <span style="color:#f58506"> AIA C.Act </span> Data Science <span style="color:#f58506"> Portfolio </span>
+subtitle: <span style="color:#f58506"> Data Science Portfolio </span>
 location: "Staplehurst, Kent (UK)"
 resume_url: /docs/Andrew Smithies CV 2025.docx
 avatar_image: /img/GitHub_profile_pic_1.JPG
