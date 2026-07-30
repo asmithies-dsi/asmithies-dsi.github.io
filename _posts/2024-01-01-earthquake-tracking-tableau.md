@@ -17,4 +17,4 @@ Click on a heading to sort by it - toggle ascending/descending.
 
 Go on, have a play around!
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/DSIEarthquakeDashboard_17854061722590/DSIEarthquakeTracker?:embed=yes&:display_count=yes&:showVizHome=no" width = '1600' height = '900'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/DSIEarthquakeDashboard_17854061722590/DSIEarthquakeTracker?:embed=yes&:display_count=yes&:showVizHome=no" width = '1200' height = '900'></iframe>
